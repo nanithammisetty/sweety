@@ -1,0 +1,87 @@
+{
+    "profiles":[
+        {
+          "basics":{
+              "Name":"Lekhasri Varikuti",
+              "Branch":"CSE",
+              "Phone":"+91 1234567890",
+              "email":"lekhasri.varikuti.01@gmail.com"
+              
+        },
+        "education":[
+            {
+                "degree":"SSC",
+                "Percent":"100",
+                "institute":"Narayana"
+            },{
+                "degree":"Intermediate-(M.P.C)",
+                "Percent":"95",
+                "institute":"Narayana juniour college"
+
+            },{
+                "degree":"B.tech-(C.S.E)",
+                "Percent":"90",
+                "institute":"VVIT"
+            }
+        ],
+        "skills":[
+            {
+             "type":"Programming language",
+            "values":["C,","C++,","Java"]
+            },
+            {
+                "type":"web technologies",
+               "values":["html,","css,","js"]
+               },
+               {
+                "type":"work shops",
+               "values":["elan&envision,","apssdc,","frontend with react js"]
+               }
+
+        ]
+    },
+        
+        {
+            "basics":{
+                "Name":"Venumadhav Thammisetty",
+                "Branch":"CSE",
+                "Phone":"+91 9876543210",
+                "email":"nanithammisetty090@gmail.com"
+          },
+          "education":[
+              {
+                  "degree":"SSC",
+                  "Percent":"95",
+                  "institute":"Kids patasala"
+  
+              },{
+                  "degree":"Intermediate-(M.P.C)",
+                  "Percent":"93",
+                  "institute":"Narayana juniour college"
+  
+              },
+              {
+                  "degree":"B.tech-(C.S.E)",
+                  "Percent":"75",
+                  "institute":"VVIT"
+  
+              }
+          ],
+          "skills":[
+            {
+             "type":"Programming language",
+            "values":["C","C++","Java"]
+            },
+            {
+                "type":"web technologies",
+               "values":["html","css","js"]
+               },
+               {
+                "type":"work shops",
+               "values":["elan&envision","apssdc","frontend with react js"]
+               }
+
+        ]
+        }
+    ]
+}
